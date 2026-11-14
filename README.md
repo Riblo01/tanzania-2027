@@ -8,4 +8,6 @@ La propuesta del grupo (presentación) es la base. La página la completa con co
 - Los avisos de seguridad son del 13 de noviembre de 2026 y deben revisarse antes de reservar.
 - La página no hace reservas ni pagos.
 
+Incluye: costos con selector de hospedaje (anuncios reales de Airbnb para 6 personas, consultados el 13 de noviembre de 2026), mapas de la ruta, día por día con horarios y costos, comparación de rutas y conexiones de vuelo, requisitos de entrada y mensaje para votar por WhatsApp.
+
 Se abre `index.html` en el navegador; no necesita servidor.
